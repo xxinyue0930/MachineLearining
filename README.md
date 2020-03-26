@@ -1,2 +1,2 @@
-# MachineLearining
+# MachineLearning
 Machine Learning Algorithm
